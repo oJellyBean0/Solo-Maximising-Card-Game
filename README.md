@@ -46,3 +46,5 @@ If the program is ended and re-run and there exists a previous save game, then t
 choose to resume the previous game, as opposed to starting a new game.
 
 (^1) See https://en.wikipedia.org/wiki/Standard_52-card_deck
+(^2) There will be 9.
+(^3) i.e. nice if yours, not nice if not.
